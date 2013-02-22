@@ -1,6 +1,15 @@
+# vim: ft=ruby
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require "trello"
+
+## -- Trello Config -- ##
+#
+Trello.configure do |config|
+  config.developer_public_key = "c9c2eca40e4825d997632bc70dd18857"
+  config.member_token = "dab6de31d35f2bab7478d5af11a883168cab26b8528c2352cd0db36b53003d05"
+end
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -27,6 +36,28 @@ new_post_ext    = "markdown"  # default new post file extension when using the n
 new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 server_port     = "4000"      # port for preview server eg. localhost:4000
 
+desc "Pull card from Trello and generate post from it"
+task :new_trello_post do
+  b = Trello::Board.find('510a3902bce28e4a38002089')
+  content_cards = []
+  b.cards.select {|c| c.list_id == "510a3902bce28e4a3800208a" }.each do |card|
+    card.labels.each do |label|
+      if label.name == "CONTENT"
+        content_cards << card
+      end
+    end
+  end
+  content_cards.each do |c|
+    puts "Id: #{c.id} ('#{c.name}')"
+  end
+  c_id = ask("Which card? ",nil)
+  card = Trello::Card.find(c_id)
+  if not card.nil?
+    Rake::Task["new_post"].invoke(card.name)
+    # TODO pull card description and dump into generated draft
+  end
+  # TODO issue git commands, moving the card into the draft list
+end
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
 task :install, :theme do |t, args|
