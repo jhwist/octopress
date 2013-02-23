@@ -40,7 +40,7 @@ desc "Pull card from Trello and generate post from it"
 task :new_trello_post do
   b = Trello::Board.find('510a3902bce28e4a38002089')
   content_cards = []
-  b.cards.select {|c| c.list_id == "510a3902bce28e4a3800208a" }.each do |card|
+  b.cards.select {|c| c.list_id == "510a487bdf52f3cd0c001075" }.each do |card|
     card.labels.each do |label|
       if label.name == "CONTENT"
         content_cards << card
@@ -58,7 +58,7 @@ task :new_trello_post do
       post.puts card.description
     end
   end
-  `"git commit -m 'Added draft as per #{card.short_id}' source"`
+  `git commit -m 'Added draft as per #{card.short_id}' #{ENV['NEW_POST']}`
 end
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
