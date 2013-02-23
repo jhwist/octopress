@@ -58,7 +58,7 @@ task :new_trello_post do
       post.puts card.description
     end
   end
-  # TODO issue git commands, moving the card into the draft list
+  `"git commit -m 'Added draft as per #{card.short_id}' source"`
 end
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
