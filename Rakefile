@@ -54,7 +54,9 @@ task :new_trello_post do
   card = Trello::Card.find(c_id)
   if not card.nil?
     Rake::Task["new_post"].invoke(card.name)
-    # TODO pull card description and dump into generated draft
+    open(ENV['NEW_POST'], 'a') do |post|
+      post.puts card.description
+    end
   end
   # TODO issue git commands, moving the card into the draft list
 end
@@ -144,6 +146,9 @@ task :new_post, :title do |t, args|
     post.puts "categories: "
     post.puts "---"
   end
+  puts "Adding to git: "
+  `git add #{filename}`
+  ENV['NEW_POST'] = filename
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
