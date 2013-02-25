@@ -18,4 +18,4 @@ group :development do
   gem 'cloudfront-invalidator', '~> 0.2.0'
 end
 
-gem 'sinatra', '~> 1.3.3'
+gem 'sinatra', '~> 1.3.5'
