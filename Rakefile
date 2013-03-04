@@ -3,6 +3,7 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 require "trello"
+require "aws/s3"
 
 ## -- Trello Config -- ##
 #
@@ -18,7 +19,7 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "rsync"
+deploy_default = "deploys3"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -268,6 +269,47 @@ task :copydot, :source, :dest do |t, args|
   FileList["#{args.source}/**/.*"].exclude("**/.", "**/..", "**/.DS_Store", "**/._*").each do |file|
     cp_r file, file.gsub(/#{args.source}/, "#{args.dest}") unless File.directory?(file)
   end
+end
+
+desc "Deploy website to AWS/S3"
+task :deploys3 do
+  puts "== Uploading assets to S3/Cloudfront"
+
+  AWS::S3::Base.establish_connection!(
+    :access_key_id => ENV["AMAZON_ACCESS_KEY_ID"],
+    :secret_access_key => ENV["AMAZON_SECRET_ACCESS_KEY"])
+  bucket = AWS::S3::Bucket.find('blog.runbikeco.de')
+
+  ## Needed to show progress
+  STDOUT.sync = true
+
+  ## Find all files (recursively) in ./public and process them.
+  Dir.glob("public/**/*").each do |file|
+
+    ## Only upload files, we're not interested in directories
+    if File.file?(file)
+      begin
+        p bucket.objects
+        p file
+        obj = bucket.objects.include?(file)
+      rescue
+        obj = nil
+      end
+      p obj
+      if !obj || (obj.etag != Digest::MD5.hexdigest(File.read(file)))
+        print "U"
+        obj = bucket.new_object
+        obj.value = open(file)
+        obj.key = file
+        obj.store
+      else
+        print "."
+      end
+    end
+  end
+  STDOUT.sync = false
+  puts
+  puts "== Done syncing"
 end
 
 desc "Deploy website via rsync"
