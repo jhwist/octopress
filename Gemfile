@@ -14,6 +14,7 @@ group :development do
   gem 'stringex', '~> 1.4.0'
   gem 'liquid', '~> 2.3.0'
   gem 'ruby-trello', '~> 0.5'
+  gem 'aws-s3', '~> 0.6.3'
 end
 
 gem 'sinatra', '~> 1.3.3'
