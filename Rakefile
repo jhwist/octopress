@@ -7,8 +7,8 @@ require "trello"
 ## -- Trello Config -- ##
 #
 Trello.configure do |config|
-  config.developer_public_key = "c9c2eca40e4825d997632bc70dd18857"
-  config.member_token = "dab6de31d35f2bab7478d5af11a883168cab26b8528c2352cd0db36b53003d05"
+  config.developer_public_key = ENV["TRELLO_KEY"]
+  config.member_token = ENV["TRELLO_TOKEN"]
 end
 
 ## -- Rsync Deploy config -- ##
@@ -38,7 +38,7 @@ server_port     = "4000"      # port for preview server eg. localhost:4000
 
 desc "Pull card from Trello and generate post from it"
 task :new_trello_post do
-  b = Trello::Board.find('510a3902bce28e4a38002089')
+  b = Trello::Board.find(ENV["TRELLO_BOARD"])
   content_cards = []
   b.cards.select {|c| c.list_id == "510a487bdf52f3cd0c001075" }.each do |card|
     card.labels.each do |label|
