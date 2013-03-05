@@ -4,6 +4,7 @@ require "bundler/setup"
 require "stringex"
 require "trello"
 require "aws/s3"
+require "cloudfront-invalidator"
 
 ## -- Trello Config -- ##
 #
@@ -290,6 +291,8 @@ task :deploys3 do
       remote.delete
     end
   end
+
+  invalidations = []
   ## Find all files (recursively) in ./public and process them.
   Dir.glob("public/**/*").each do |file|
 
@@ -307,11 +310,17 @@ task :deploys3 do
         obj.value = open(file)
         obj.key = remote
         obj.store
+        invalidations << remote
       else
         print "."
       end
     end
   end
+  ## Invalidate Cloudfront
+  invalidator = CloudfrontInvalidator.new(aws_access_key_id, aws_secret_key, "ETM23G84V48NW")
+  print "Invalidating #{invalidations.size} items ... "
+  invalidator.invalidate(invalidations)
+  print "done"
   STDOUT.sync = false
   puts
   puts "== Done syncing"

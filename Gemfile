@@ -15,6 +15,7 @@ group :development do
   gem 'liquid', '~> 2.3.0'
   gem 'ruby-trello', '~> 0.5'
   gem 'aws-s3', '~> 0.6.3'
+  gem 'cloudfront-invalidator', '~> 0.2.0'
 end
 
 gem 'sinatra', '~> 1.3.3'
