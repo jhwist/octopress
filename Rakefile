@@ -276,8 +276,8 @@ task :deploys3 do
   puts "== Uploading assets to S3/Cloudfront"
 
   AWS::S3::Base.establish_connection!(
-    :access_key_id => ENV["AMAZON_ACCESS_KEY_ID"],
-    :secret_access_key => ENV["AMAZON_SECRET_ACCESS_KEY"])
+    :access_key_id => aws_access_key_id,
+    :secret_access_key => aws_secret_key)
   bucket = AWS::S3::Bucket.find('blog.runbikeco.de')
 
   ## Needed to show progress
@@ -289,13 +289,10 @@ task :deploys3 do
     ## Only upload files, we're not interested in directories
     if File.file?(file)
       begin
-        p bucket.objects
-        p file
-        obj = bucket.objects.include?(file)
+        obj = bucket[file]
       rescue
         obj = nil
       end
-      p obj
       if !obj || (obj.etag != Digest::MD5.hexdigest(File.read(file)))
         print "U"
         obj = bucket.new_object
@@ -458,4 +455,28 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+def key_from_s3cfg(key)
+  result = ""
+  File.open("#{ENV["HOME"]}/.s3cfg", 'r') do |inFile|
+    inFile.each_line do |line|
+      if line.match(Regexp.new(key))
+        result = line.split(" = ")[1].rstrip
+      end
+    end
+  end
+  result
+end
+
+def aws_access_key_id()
+  key = key_from_s3cfg("access_key")
+  return key unless key.nil? 
+  return ENV["AWS_ACCESS_KEY_ID"]
+end
+
+def aws_secret_key()
+  key = key_from_s3cfg("secret_key")
+  return key unless key.nil? 
+  return ENV["AWS_SECRET_ACCESS_KEY"]
 end
