@@ -283,6 +283,13 @@ task :deploys3 do
   ## Needed to show progress
   STDOUT.sync = true
 
+  ## Delete stale files from remote
+  bucket.objects.each do |remote|
+    if !File.exists?("public/#{remote.key}")
+      print "D"
+      remote.delete
+    end
+  end
   ## Find all files (recursively) in ./public and process them.
   Dir.glob("public/**/*").each do |file|
 
