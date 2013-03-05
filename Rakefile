@@ -288,8 +288,9 @@ task :deploys3 do
 
     ## Only upload files, we're not interested in directories
     if File.file?(file)
+      remote = file.sub(/public\//,'')
       begin
-        obj = bucket[file]
+        obj = bucket[remote]
       rescue
         obj = nil
       end
@@ -297,7 +298,7 @@ task :deploys3 do
         print "U"
         obj = bucket.new_object
         obj.value = open(file)
-        obj.key = file
+        obj.key = remote
         obj.store
       else
         print "."
