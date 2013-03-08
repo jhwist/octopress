@@ -318,7 +318,7 @@ task :deploys3 do
   end
   ## Invalidate Cloudfront
   invalidator = CloudfrontInvalidator.new(aws_access_key_id, aws_secret_key, "ETM23G84V48NW")
-  print "Invalidating #{invalidations.size} items ... "
+  print "\n== Invalidating #{invalidations.size} items ... "
   invalidator.invalidate(invalidations)
   print "done"
   STDOUT.sync = false
