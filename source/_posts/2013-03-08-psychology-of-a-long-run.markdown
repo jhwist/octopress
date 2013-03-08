@@ -18,22 +18,20 @@ do the warmup and head out. And thus it begins...
 ## 0 to 3km
 The easy part. Get going and get into a rhythm. For long runs during winter this
 also includes fretting over the HR strap which sends erroneous readings for about
-5 to 10 minutes due to dryness. More on that in a later post. My brain is mostly
-still occupied with stuff I did right before the run, so the first few km pass
-pretty quickly.
+5 to 10 minutes due to cold air and dryness. More on that in a later post. My
+brain is mostly still occupied with stuff I did right before the run, so the
+first few kilometers pass pretty quickly.
 
-## 3-5km
+## 3 to 5km
 Oh, good, 2km to go and I'll have a third done. That's easy. By the time I pass
 the 5km mark I also have a pretty good idea of my pace and how fresh my legs are.
 With that data in mind I can calculate a goal time, unless I have a goal time set
 by a training plan. If that's the case, 5km is a good time to make pace adjustments.
-
-## 5km
-This means: 3km more and we're over the half of this run. Pretty easy, I can 
-always run 3km more.
+At 5km I do some simple math: 3km more and we're over the half of this run.
+Pretty easy, I can always run three more kilometers.
 
 ## 8km
-Yep, another 3km in the books. Legs are probably still fresh, after all -so far-
+Yep, another 3km done. Legs are probably still fresh, after all -so far-
 it has only been a normal training run. At this point I usually compare what's
 ahead of me with other training runs I do on a regular basis. In this particular case
 it's just another 7km run, similar to [this one](http://app.strava.com/activities/38548190 "7km on Strava").
@@ -56,11 +54,12 @@ good when it's over. Ahhh, another long run in the books. I have a valid reason
 to eat all the things now.
 
 
-There are of course variations to this, and I yet have to run anything significantly
-longer than 15km, for which I need to revise this strategy. If the long run has
+There are of course variations to this. If the long run has
 specific goals like tempo variations or intervals, the strategy must be
-adapted.  While those make the run itself harder, they are a lot easier to process.
-Just concentrate on the task at hand (feet?). By the time the intervals are over 
-I actually look forward to a few km of recovery.
+adapted.  While those make the run itself harder, they are a lot easier to
+process.  Just concentrate on the task at hand (feet?). By the time the
+intervals are over I actually look forward to a few km of recovery.
+Also, I have yet to run anything significantly longer than 15km, for which I
+need to revise this strategy. The coming weeks will tell!
 
 > Do you have a strategy for long runs? Leave a comment!
