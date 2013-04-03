@@ -1,23 +1,105 @@
 ---
 layout: page
-title: "impressum"
+title: "Imprint (Impressum)"
 comments: false
 sharing: false
 footer: true
 ---
 
-<p>Henrik Wist<br />
+<a href="#german">(Hier klicken f&uuml;r die deutsche Version)</a>
+
+## Imprint (English) ##
+
+I am responsible for the content of this web site, except for the content
+written by and attributed to others. Therefore I am also not responsible
+for comments, including anonymous ones, nor the content of other linked
+sites. Here's my contact data:
+
+Henrik Wist<br />
 Johann-Sebastian-Bach-Str. 42a<br />
 85521 Ottobrunn<br />
-</p>
-<h2>Kontakt:</h2>
 <table>
 <tr>
-<td><p>Telefon:</p></td>
-<td><p>+49 89 1752466758</p></td>
+<td>Phone:&nbsp;</td>
+<td>+49 1752466758</td>
 </tr>
-<tr><td><p>E-Mail:</p></td>
-<td><p>henrik.wist@googlemail.com</p></td>
+<tr>
+<td>E-Mail:&nbsp;</td>
+<td>henrik.wist@googlemail.com</td>
+</tr></table>
+<h2>Privacy policy</h2>
+<p>Privacy matters but it can be confusing. This page explains my approach to
+privacy on this site and how it affects you.</p>
+<h2>Short version</h2>
+ * This site collects anonymous statistics
+about your visit, like which of the pages you viewed.
+ * Some 3rd parties like Facebook and Twitter may know you visited this
+website, if you use their services. I can't control them but I
+don't believe this knowledge poses any threat to you.
+
+<p>These are just the key points. If you need detail, keep reading.</p>
+<h2>Measuring my visitors</h2>
+<p>I measure visitors to this website using Google Analytics. This records what
+pages you view within the site, how you arrived at the site and some basic
+information about your computer. All of that information is anonymous – so I
+don't know who you are; just that <em>somebody </em>visited the site.</p>
+<p>The information I collect from
+analytics helps me understand what parts of the site are doing
+well, how people arrive at this site and so on. Like most websites,
+I use this information to make this website better.</p> <p>You can
+learn more about
+<a title="Google Analytics' privacy policy" href="http://www.google.com/analytics/learn/privacy.html">Google Analytics</a> or
+<a title="How to opt out of google analytics" href="https://tools.google.com/dlpage/gaoptout">opt out if you wish</a>.</p>
+<h2>Facebook, Twitter and other social networks</h2>
+<p>These services provide social buttons and similar features which
+I use on this website – such as the "Like" and "Tweet" buttons.</p>
+<p>To do so I embed code that they provide and I do not control
+myselve. To function their buttons generally know if you’re
+logged in; for example Facebook use this to say "x of your friends
+like this". I do not have any access to that information, nor can
+I control how those networks use it.</p>
+<p>Social networks therefore <em>could </em>know that you're viewing this
+website, if you use their services (that isn’t to say they do, but their
+policies may change). As my website is remarkably
+inoffensive I imagine this is not a concern for most users.</p>
+
+<h2>Discussion comments</h2>
+<p>To allow visitors to discuss my
+blog articles and some web pages I use a discussion system called
+Disqus.</p>
+<p>To do so I embed code that Disqus provide and I do
+not control myselve. Disqus anonymously tracks visitors to pages. They also remember who you are if you login to any
+Disqus service, so you can comment on any website using their
+tool.</p> <p>Logging in to Disqus can be done in many ways,
+including via Facebook. If you login via social network, Disqus
+will be able to link your activity to that network. In this way,
+your Disqus activity may be personally identifiable.</p>
+<p>Disqus will know what pages you viewed on this site and what you wrote on
+those comments. Of course all comments you leave are also publicly
+visible on the Internet alongside your name, so I do not imagine
+this is a concern for many people.</p>
+
+<h2>Affiliate Links</h2>
+This website uses affiliate links in association with <a href="http://www.amazon.com">Amazon.com</a> and
+<a href="http://www.amazon.co.uk">Amazon.co.uk</a>for books and other selected products. Any revenue generated from
+such links is being used purely to compensate for the traffic costs of this website.
+
+
+<a name="german"></a>
+## Impressum (Deutsch) ##
+
+### Kontakt: ###
+Henrik Wist<br />
+Johann-Sebastian-Bach-Str. 42a<br />
+85521 Ottobrunn<br />
+<table>
+<tr>
+<td>Telefon:&nbsp;</td>
+<td>+49 1752466758</td>
+</tr>
+<tr>
+<td>E-Mail:&nbsp;</td>
+<td>henrik.wist@googlemail.com</td>
 </tr></table>
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
 <p>Henrik Wist<br />
@@ -26,19 +108,14 @@ Johann-Sebastian-Bach-Strasse 42a<br />
 <p>Quelle: <i>Mit dem von <a rel="nofollow" href="http://www.e-recht24.de">eRecht24</a> bereitgestellten Impressum-Generator erzeugt.</i></p>
 <h2>Haftungsausschluss:</h2>
 <p><strong>Haftung für Inhalte</strong></p>
-<p>Die Inhalte unserer Seiten
-wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und
-Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als
-Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen
-Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind
-wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
-gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
-forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur
-Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen
-Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst
-ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei
-Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte
-umgehend entfernen.</p>
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und
+Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen
+Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
+gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur
+Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst
+ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte
+umgehend entfernen.
 <p><strong>Haftung für Links</strong></p>
 <p>Unser
 Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir
@@ -207,4 +284,10 @@ Twitter unter <a href="http://twitter.com/privacy" target="_blank">http://twitte
 <p>Ihre Datenschutzeinstellungen bei Twitter können Sie in den
 Konto-Einstellungen unter <a href="http://twitter.com/account/settings"
 target="_blank">http://twitter.com/account/settings</a> ändern.</p>
-<p><i>Quellen: <a href="http://www.e-recht24.de/muster-disclaimer.htm" target="_blank">eRecht24 Disclaimer</a>, <a href="http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html" target="_blank">Facebook-Disclaimer von eRecht24</a>, <a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_blank">Google Analytics Datenschutzerklärung</a>, <a href="http://www.e-recht24.de/artikel/datenschutz/6635-datenschutz-rechtliche-risiken-bei-der-nutzung-von-google-analytics-und-googleadsense.html" target="_blank">eRecht24 Datenschutzerklärung Google Adsense</a>, <a href="http://www.google.com/intl/de/+/policy/+1button.html" target="_blank">Google +1 Bedingungen</a>, <a href="http://twitter.com/privacy" target="_blank">Twitter Datenschutzerklärung</a></i></p>
+<p><i>Quellen: <a href="http://www.e-recht24.de/muster-disclaimer.htm" target="_blank">eRecht24 Disclaimer</a>, <a href="http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html" target="_blank">Facebook-Disclaimer von eRecht24</a>,
+<a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_blank">Google Analytics Datenschutzerklärung</a>, <a href="http://www.e-recht24.de/artikel/datenschutz/6635-datenschutz-rechtliche-risiken-bei-der-nutzung-von-google-analytics-und-googleadsense.html" target="_blank">eRecht24 Datenschutzerklärung zu Google Adsense</a>,
+<a href="http://www.google.com/intl/de/+/policy/+1button.html" target="_blank">Google +1 Bedingungen</a>,
+<a href="http://twitter.com/privacy" target="_blank">Twitter Datenschutzerklärung</a></i></p>
+
+Diese Webseite verwendet Partner-Links zu Büchern und anderen ausgewählten Produkte auf <a href="http://www.amazon.de">Amazon.de</a>.
+Alle Einnahmen aus diesen Links werden für die Rückfinanzierung von Hosting-Kosten für diese Webseite verwendet.
