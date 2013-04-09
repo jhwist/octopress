@@ -42,7 +42,7 @@ time after school training, more or less structured, with a lot of brick
 workouts followed by a tough swim session. And I signed up for a lot of races,
 all olympic distances,  often every other weekend. I still suffered a
 lot during the races, but as I was able to snag a few age-group podium
-places my motivation didn't suffer. Running was always my least favourite exercise of the three. 
+places my motivation didn't suffer. Running was always my least favourite exercise of the three though. 
 
 Luckily I kept a few pictures from that time, which I'm not embarrassed enough to share for your enjoyment.
 
@@ -75,12 +75,12 @@ if it was right or wrong, but back then it made sense to me.
 
 Sort of going back to my roots I worked with another good friend and coach and improved my swimming
 technique to the point where I was fit enough to join a really good team. Training six times per week, I spent
-a year on the "B" team (with all the youngster, some being easily 10 years younger than me), before I was
+a year on the "B" team (with all the youngsters, some being easily 10 years younger than me), before I was
 able to join the "A" team. In 1993-1995 I probably spent more time in the pool than at University. Training 
 eight times per week (with one day off, do the math) I tried to catch up with what was a pretty late start
 for a really successful career. Never worked out, of course, but I was happy with my steady improvements.
 The only ones not too happy about my prioritization were my parents. My grades suffered and I was at risk to 
-be thrown out of University. Seeing that I probably wouldn't make any money continuing my swimming career I told
+be expelled from University. Seeing that I probably wouldn't make any money continuing my swimming career I told
 my coach that I'd quit (to this date one of the toughest conversations I've ever had).
 
 In hindsight it was a good decision to focus on my Computer Science studies and get a descent education. I hope
