@@ -3,7 +3,7 @@ layout: post
 title: "Psychology of a long run"
 date: 2013-03-08 17:57
 comments: true
-categories: [running]
+categories: [ Running ]
 ---
 > Ever since I got serious about my running I was fascinated by the psychological side of things. The _long_ run is one of those things.
 > Long - in my world - being anything above 75 minutes. For this post, I'll assume a 15km long run.
