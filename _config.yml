@@ -65,10 +65,10 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: runbikecode
-twitter_tweet_count: 4
+twitter_tweet_count: 0
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
@@ -96,4 +96,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-20875574-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
