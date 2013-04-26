@@ -105,6 +105,9 @@ Extra kudos to the pace guy, because he literally finished on time (1h45'00"). A
 Here's all the glory via Strava:
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://app.strava.com/activities/48767818/embed/465c0832369db771a1b4ced8a9639304223ad3ed'></iframe>
 
+And here is the official finisher picture:
+{% imgcap http://assets.runbikeco.de/vcm-finish.jpg Happy camper at the finish %}
+
 ### Lessons learned ###
 As with every "first", there are a few things I want to take away from this race and improve upon in the next race(s):
 
@@ -117,6 +120,7 @@ As with every "first", there are a few things I want to take away from this race
   Not having a good pace line will result in a lot of extra distance, about 400 meters in my case.
   * Choose smaller races for PRs, enjoy the scenery at the big races (unless there are really well organized starting corrals).
 
+> I'm looking forward to the upcoming races and to the opportunity to improve!
 
 {% footnotes %}
   {% fn %} the amount of runners going abruptly from their pace line in the middle to either
