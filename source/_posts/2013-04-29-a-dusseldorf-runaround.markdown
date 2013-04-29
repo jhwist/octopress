@@ -21,8 +21,7 @@ the same route she recommended.
 
 So out of the hotel I went and right across the river Rhine. The weather was overcast
 (whereas we had blue sky on Wednesday and Thursday, both of which I spent indoors ...)
-so all the photo opportunities stayed rather gray.
-
+so all the photo opportunities presented themselves rather gray.
 
 {% imgcap http://assets.runbikeco.de/d-runaround-rhine.jpg Crossing the River Rhine %}
 
@@ -34,7 +33,7 @@ morning except for the occasional runner exchanging nods as a greeting.
 
 After a brief stop to capture these ancient lawn-mowers I crossed the river again,
 making my way towards the city. Since I didn't know how many traffic lights my 
-path would cross if had I gone right into downtown, I decided to stay at the river
+path would cross if I'd go right into downtown, I decided to stay at the river
 and head back towards the hotel.
 
 {% imgcap http://assets.runbikeco.de/d-runaround-beerstop.jpg No Time to stop for a Beer %}
@@ -46,14 +45,14 @@ not knowing that
   1. The path around the park is exactly 3km long (perfect!)
   2. The path around the park is a local [Strava Segment](http://app.strava.com/segments/1376507) (sorry, guys!)
 
-Trusting my instinct to find the way back to the Hotel I wrapped up my morning run
-with [13.3km in 1h12'](http://http://app.strava.com/activities/50757628/overview) and this route:
+Trusting my instinct to find the way back to the hotel I wrapped up my morning run
+with [13.3km in 1h12'](http://http://app.strava.com/activities/50757628/overview), covering this route:
 
 {% imgcap http://assets.runbikeco.de/d-runaround-route.jpg The Route %}
 
 
-> While I head planned to do another run on Thursday this unfortunately didn't happen,
-> so the rest of the downtown Strava segments are safe for now! 
+> While I had planned to do another run on Thursday this unfortunately didn't happen,
+> so the rest of the downtown Strava segments in D&uuml;sseldorf are safe for now! 
 
 {% footnotes %}
   {% fn %} at least travel-wise
