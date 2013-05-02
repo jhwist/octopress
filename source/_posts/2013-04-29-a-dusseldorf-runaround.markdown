@@ -46,7 +46,7 @@ not knowing that
   2. The path around the park is a local [Strava Segment](http://app.strava.com/segments/1376507) (sorry, guys!)
 
 Trusting my instinct to find the way back to the hotel I wrapped up my morning run
-with [13.3km in 1h12'](http://http://app.strava.com/activities/50757628/overview), covering this route:
+with [13.3km in 1h12'](http://app.strava.com/activities/50757628/overview), covering this route:
 
 {% imgcap http://assets.runbikeco.de/d-runaround-route.jpg The Route %}
 
