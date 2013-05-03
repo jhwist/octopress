@@ -1,0 +1,35 @@
+---
+layout: post
+title: "4x7 Review"
+date: 2013-05-03 14:18
+comments: true
+categories: 
+---
+> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+
+## As seen on runbikeco.de
+* [My background story](http://blog.runbikeco.de/blog/2013/04/09/running-on-my-old-stomping-ground/)
+* [HM Strategy](/blog/2013/04/11/strategy-for-a-half-marathon/)
+* [Vienna City Half Marathon](/blog/2013/04/17/vienna-city-half-marathon/)
+* [A Düsseldorf Runaround](/blog/2013/04/29/a-dusseldorf-runaround/)
+
+## Notable past training
+
+## Upcoming training
+
+## Food consumed
+I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+
+* [flank steak BBQ](http://www.simplyrecipes.com/recipes/grilled_marinated_flank_steak/) {% imgcap %}
+* [Greek Meatza](http://www.marksdailyapple.com/greek-meatza-with-creamy-feta-kalamata-olives-and-red-onion/), very easy to prepare, delicious and low-carb
+
+## Found elsewhere
+Lastly, a more or less uncommented link-dump of the past 28 days.
+
+* [Getting the callstack of a running ruby process](http://rrn.dk/running-ruby-process-callstack)
+* And some more coding: [5 useful tips for a better commit message](http://robots.thoughtbot.com/post/48933156625/5-useful-tips-for-a-better-commit-message) by the fine folks of Thoughbot.
+* A nice piece on getting things started: [The McDonald's Theorem](https://medium.com/what-i-learned-building/9216e1c9da7d)
+* Joe Friel put up sort of a landing page around the topic of [Tapering and Peaking](http://www.joefrielsblog.com/2013/04/tapering-and-peaking-review.html)
+* If I read the abstract of this [Foot Strike Patterns](http://journals.humankinetics.com/ijspp-current-issue/ijspp-volume-8-issue-3-may/foot-strike-pattern-and-performance-in-a-marathon) paper correctly it seems that forefoot striking can yield higher performance
+* Read this piece about the [people who watch marathons](http://jezebel.com/the-people-who-watch-marathons-473405924) just after the Boston Marathon attack. "If anyone thought this attack would discourage the runners or the watchers, they've clearly never been to a marathon."
+* Trainingpeaks (a software that I use and love) is named [official training software of IRONMAN}(http://blog.trainingpeaks.com/posts/2013/5/1/trainingpeaks-named-official-training-software-of-ironman.html)
