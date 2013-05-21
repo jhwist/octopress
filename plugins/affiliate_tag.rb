@@ -8,7 +8,7 @@ module Jekyll
     def render(context)
       aff = "<div class=\"affiliate\">"
       aff += "This post contains affiliate links to #{@text.strip}. If you
-      buy through these links I get a small commission to help fund this blog. There
+      buy something through these links I get a small commission to help fund this blog. There
       is no additional cost involved for you. Thanks for your support!"
       aff += "</div>"
     end
