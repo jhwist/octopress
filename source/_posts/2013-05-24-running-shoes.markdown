@@ -6,9 +6,9 @@ comments: true
 categories: [Running]
 ---
 > After getting blisters more often than not when running in my beloved Nike
-> Free shoes I looked at their mileage ... lo and behold, they seemed to be
-> past prime time. With some new shoes in the house, this serves as a good
-> opportunity to give you an overview of past and current choices.
+> Free shoes I had a look at their mileage ... and lo and behold, they seemed
+> to be well  past prime time. With some new shoes in the house, this serves as
+> a good opportunity to give you an overview of past and current choices.
 
 I am of firm belief that every runner needs to find their own best fit when it
 comes to shoes. While it is easy to recommend technical items like running
@@ -31,16 +31,16 @@ local sport shop and was helped by a friendly clerk, who asked me about my
 running volume (not much at that time),
 preferences to trail or street (mostly street, as is still the case)
 and any potential orthopedic issues (told him about my lingering knee
-problems). He came back with two models, one of which being the 
-[ASICS] (http://www.asicsamerica.com/)
+problems). He came back with two models, one of which being the
+[ASICS](http://www.asicsamerica.com/)
 Cumulus 12 (can't remember the other one). Back in my triathlon days I had
 ASICS as well, so I tried the Cumulus first, went onto the treadmill for a
 few steps (including videotaping said steps) and loved the shoe. Sold.
 
 Mind you, I was still a heel-striker back then. So what's to like about the
 Cumulus 12? I found it to be very stable and comfortable while at the same time
-light enough considering the amount of cushion it has. Also, it is a really 
-durable shoe; I've had it for over two years and it didn't wear in any unusual 
+light enough considering the amount of cushion it has. Also, it is a really
+durable shoe; I've had it for over two years and it didn't wear in any unusual
 way. Of course, once I tried to run with a forefoot strike, I noticed that
 the stability, especially in the front, got into the way and I needed something
 more flexible. So, if you're not a heel striker, don't go for this shoe.
@@ -51,22 +51,22 @@ Get them on [Amazon.com](http://www.amazon.com/gp/product/B004DEPQH6/ref=as_li_s
 {% imgcap http://assets.runbikeco.de/shoes-nike-overview.jpg Nike Free 3.0 %}
 
 This shoe carried me through most of 2011 and 2012. After transitioning to a forefoot
-strike I noticed that me feet, especially my toes, needed more flexibility to "feel" 
+strike I noticed that me feet, especially my toes, needed more flexibility to "feel"
 the ground. So off I went again to buy new shoes. There wasn't much choice for "natural"
 running shoes (and I didn't know a lot about it, either), but thankfully the clerk
 showed me the Nike Free 3.0. Ahh, what a revelation. I tried them on the treadmill
-and knew that these shoes would support my new stride. 
+and knew that these shoes would support my new stride.
 
-*What's to like?* The Nike Free 3.0 is super flexible, especially in the front. You can 
+*What's to like?* The Nike Free 3.0 is super flexible, especially in the front. You can
 easily bend the front of the shoe all the way back. It also has very little drop towards
 the back, which helped me concentrate on a forefoot landing. And, thanks to the light
 mesh, the toes have a lot of wiggle room. Feels odd at first, but I soon started to feel
-confined in the ASICS in comparison. 
+confined in the ASICS in comparison.
 
-*What's not to like?* Well, I often felt like wearing a fashion statement rather than 
+*What's not to like?* Well, I often felt like wearing a fashion statement rather than
 true running shoes. The design is in my opinion not very running like and this fact
 isn't helped by their shape. Another thing I noticed during winter training is that
-the structure of the soles are prone to collect gravel. The occasional stone caught 
+the structure of the soles are prone to collect gravel. The occasional stone caught
 in a slot of the sole isn't noticeable, but I've had runs where I felt the amount of
 gravel through the sole and so had to clean the shoes before the next run.
 {% imgcap http://assets.runbikeco.de/shoes-nike-stone.jpg A reminiscence to winter %}
@@ -78,11 +78,11 @@ on to even more minimal shoes.
 Get them on [Amazon.com](http://www.amazon.com/gp/product/B00AZY84QS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AZY84QS&linkCode=as2&tag=runbikcod03-20) or [Amazon.de](http://www.amazon.de/gp/product/B001M5BU9M/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B001M5BU9M&linkCode=as2&tag=runbikcod-21).
 
 ## Adidas Adipure Trainer 360 ##
-After saying goodbye to the ASICS, I figured I needed a new pair of shoes to spread the 
-load and have some shoe rotation going on again. This time I new what to ask for in the shop
+After saying goodbye to the ASICS, I figured I needed a new pair of shoes to spread the
+load and have some shoe rotation going on again. This time I knew what to ask for in the shop
 and tried several different pairs of minimal running shoes. The Adipure Tr360 wasn't my first
 choice, but - for whatever reason - all the others didn't feel right (amongst them the very
-same Merrell Flux Glove that I bought in May this year). 
+same Merrell Flux Glove that I bought in May this year).
 
 {%imgcap http://assets.runbikeco.de/shoes-adidas-overview.jpg Adidas Adipure Trainer 360 %}
 
@@ -90,8 +90,8 @@ same Merrell Flux Glove that I bought in May this year).
 a regular running shoe, while still being sold in the "minimal" section in the
 shop. It has a snug fit and is pretty flexible at the same time.
 
-*What's not to like?* Wet feet. These shoes are for dry streets only, or else: wet feet. 
-See, part of the flexibility of this shoe comes from the special design of the sole, 
+*What's not to like?* Wet feet. These shoes are for dry streets only, or else: wet feet.
+See, part of the flexibility of this shoe comes from the special design of the sole,
 which has gaps in it. These gaps however have no protection towards the inner mesh. Therefore,
 one step into a puddle, or snow, or some other wet road and you can immediately feel your socks
 get wet.
@@ -108,7 +108,7 @@ Get them on [Amazon.com](http://www.amazon.com/gp/product/B00B6T3OHU/ref=as_li_s
 ## Merrell Flux Glove Sport ##
 The newest addition to my shoe family (together with the NB Minimus, below). I bought these the day
 after my [10km race](/blog/2013/05/02/race-report-fruhjahrslauf-asv-dachau-10km), since I finished
-this race again with pretty big blisters and figured it was about time to say good-bye to the Nikes.
+this race again with pretty big blisters and figured it was about time to say goodbye to the Nikes.
 I was hesitant to try them on, since they didn't fit the last time I tried them (back when I bought the
 Adidas). However, this time I felt in heaven. Fit like a sock, light-weight, and most important, direct
 feedback from the ground to the feet. As I quickly found out during my first runs with the Merrells, you
@@ -117,7 +117,7 @@ feet know what's going on, way.
 
 {%imgcap http://assets.runbikeco.de/shoes-merrell-overview.jpg Merrell Flux Glove Sport %}
 
-*What's to like?* After running a couple of kilometers in them, I'm still happy I bought these. They are 
+*What's to like?* After running a couple of kilometers in them, I'm still happy I bought these. They are
 and feel super light (378g), the nonexistent drop helps my stride immensely and the sole is closed, which means
 wet roads aren't that much of a problem (you'll probably still get wet feet due to the upper mesh, but
 that holds true for all running shoes that I know).
@@ -125,7 +125,7 @@ that holds true for all running shoes that I know).
 {%imgcap http://assets.runbikeco.de/shoes-merrell-sole.jpg Closed sole, dry feet, still flexible %}
 
 *What's not to like?* For me as of today? Nothing. They aren't even that pricey compared to other
-shoes in that league. 
+shoes in that league.
 
 Get them on [Amazon.com](http://www.amazon.com/gp/product/B006ZB1QZ6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006ZB1QZ6&linkCode=as2&tag=runbikcod03-20) or [Amazon.de](http://www.amazon.de/gp/product/B007YH91RU/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B007YH91RU&linkCode=as2&tag=runbikcod-21).
 
@@ -138,9 +138,9 @@ and also have a great flexible sole which gives good feedback to your feet.
 
 {%imgcap http://assets.runbikeco.de/shoes-new-balance-overview.jpg New Balance Minimus Road 10 %}
 
-*What's to like?* After about 35km in them? Everything. I'm glad that I didn't decide for either one 
+*What's to like?* After about 35km in them? Everything. I'm glad that I didn't decide for either one
 of those two (Merrell vs. NB) but bought both of them. I'll happily rotate shoes, with these two being
-my favorites. 
+my favorites.
 
 *What's not to like?* Well, there is one thing, and that is: Wet feet. While not as bad as with the Adidas,
 the sole structure of the NB has also small gaps which leave the inner mesh exposed to the outside weather.
@@ -165,3 +165,6 @@ by the time I have to re-buy running shoes, NB and Merrell will still make these
 and never try another brand again.
 
 {% affiliate Amazon %}
+
+> I hope you found this shoe overview helpful. I'm curious, though: What's your
+> favorite running shoe?
