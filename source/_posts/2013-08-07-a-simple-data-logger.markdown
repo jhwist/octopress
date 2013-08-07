@@ -55,7 +55,7 @@ application would still work correctly (Req. #4). Enters [Sinatra](http://www.si
 and [DataMapper](http://datamapper.org/)!
 
 The web-server in question runs a bunch of Rails applications already and has
-access to a PostgreSQL database, so the infrastructure to run any Rack-based 
+access to a PostgreSQL database, so the infrastructure to run any Rack-based
 application was in place.
 
 ``` ruby A simple data logger
