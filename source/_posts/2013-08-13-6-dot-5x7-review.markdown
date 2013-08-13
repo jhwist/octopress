@@ -3,26 +3,60 @@ layout: post
 title: "6.5x7 Review"
 date: 2013-08-13 21:37
 comments: true
-categories: 
+categories: [ Review ]
 ---
-> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+> I stumble over quite a lot of interesting articles and some are worth sharing
+> on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will
+> include my own posts, some training highlights and some of my nutrition. As
+> I didn't keep my own schedule for reasons mentioned below (weather!), this
+> one is aptly named "6.5x7 Review", covering the last six-and-a-half weeks.
+> Enjoy!
 
 ## As seen on runbikeco.de ##
-Can you tell that the weather was really, really nice for the most part of July and August? Yep, not much blogging happened, and I blame summer! But still, if you want to recap:
+Can you tell that the weather was really, really nice for the most part of July
+and August? Yep, not much blogging happened, and I blame summer! But still, if
+you want to recap:
 
-  * My first post about coding (yep, the co.de part of this whole thing): [A Simple Data Logger](blog/2013/08/07/a-simple-data-logger/)
-  * Race Report [Run 4 Trees](/blog/2013/07/30/race-report-run-4-trees/)
+  * My first post about coding (yep, the [co.de](/blog/categories/coding) part of this whole thing): [A Simple Data Logger](blog/2013/08/07/a-simple-data-logger/).
+  * Race Report [Run 4 Trees](/blog/2013/07/30/race-report-run-4-trees/).
 
 ## Notable past training
 
+Over the last six weeks I wasn't as consistent in my running as I wish it had been.
+I tend to have three weeks of solid training, then I get injured one way or
+the other and then I have to dial back and start all over. I'm sure I'll figure
+out what's causing problems sometime. For now, here are the totals since
+end of June:
+
+  * Week 27: 52.16 km running, 127.59 km cycling
+  * Week 28: 56.29 km running,  32.27 km cycling
+  * Week 29: 51.51 km running, 118.20 km cycling
+  * Week 30: 26.32 km running, 140.26 km cycling
+  * Week 31: 11.53 km running, 324.42 km cycling
+  * Week 32: 35.56 km running, 109.24 km cycling
+
+  
+On the plus side I was able keep the fitness by going out on long and/or hard
+bike rides when I took my small breaks from running. I think my fitness level
+is pretty good at the moment, I *just* have to stay injury free until September 22nd,
+when I run the second half-marathon of the season.
+
+
 ## Upcoming training
 
+Together with Coach Mike I've decided to play it safe for the next couple of weeks,
+meaning no effort harder than Z3 (i.e. no sprints/strides) and no runs longer than
+90-100 minutes (i.e. less than 20km).
+
 ## Food consumed
-I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+I won't bore you with everything I ate during the past weeks, but there is always a meal or two that was special.
   
-  * Self-made Pizza from the Grill. Again forgot to take pictures. The pizza was better than my last attempt, I think I have the dough figured out by now. Things to work on: How to transfer the pizza from "production" to the grill without ripping it apart.
+  * Self-made pizza from the Grill (again forgot to take pictures). The pizza was better than my last attempt, I think I have the dough figured out by now. Things to work on: How to transfer the pizza from "production" to the grill without ripping it apart.
   * Mostly lots of BBQ. Can you spot a scheme here?
-  * Feed Zone Portables.
+  * I've discovered a great book with recipes to fuel my long training sessions: [Feed Zone Portables](http://www.amazon.com/gp/product/1937715000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1937715000&linkCode=as2&tag=runbikcod03-20). That
+  stuff is great and I will for sure add a book review for this one in the next couple of weeks.
+
+{% affiliate Amazon %}
 
 ## Found elsewhere
 Lastly, a more or less uncommented link-dump of the past 28 days.
@@ -34,3 +68,4 @@ Lastly, a more or less uncommented link-dump of the past 28 days.
 
 
 > With that, have a great four weeks ahead. And remember, you can subscribe to this blog via Atom as well as Feedburner. 
+
