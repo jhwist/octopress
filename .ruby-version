@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ruby-1.9.3-p448
-=======
-ruby-1.9.3
->>>>>>> Removed outdated ruby version manager configurations; update to .ruby-version
+1.9.3
