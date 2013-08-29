@@ -17,6 +17,7 @@ group :development do
   gem 'ruby-trello', '~> 0.5'
   gem 'aws-s3', '~> 0.6.3'
   gem 'cloudfront-invalidator', '~> 0.2.0'
+  gem 'directory_watcher', '1.4.1'
 end
 
 gem 'sinatra', '~> 1.4.2'
