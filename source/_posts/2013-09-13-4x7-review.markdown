@@ -3,18 +3,36 @@ layout: post
 title: "4x7 Review"
 date: 2013-09-13 15:13
 comments: true
-categories: 
+categories: [ Review ]
 ---
-> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+> I stumble over quite a lot of interesting articles and some are worth sharing
+> on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will
+> include my own posts, some training highlights and some of my nutrition.
+> Enjoy!
 
 ## As seen on runbikeco.de
 
+As you might have guessed if you follow me along on [Twitter](https://www.twitter.com/runbikecode)
+or [Strava](http://www.strava.com/athletes/104888) I was on vacation for the most
+part of the last four weeks. No blogging has happened, but you will be able to
+read about my Borkum Runaround soon!
+
 ## Notable past training
+
+Despite being on vacation, I managed to get a couple of good runs in. I'm
+especially proud of two long runs of about 20km that I made myself wake up
+at 6am for. Also, as luck would have it, I found a nearby track on one of our
+stop-overs and was able to do an early morning workout with mile-repeats.
 
 ## Upcoming training
 
+My next race is a half-marathon (my second!) on September 22, which means I'll
+be tapering for the next few days. I'm also nursing some slight knee pain (left
+knee this time, wth), and I hope to get rid of that before the race.
+
 ## Food consumed
-I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+I won't bore you with everything I ate during the past four weeks, but there is
+always a meal or two that was special.
 
  * Fish. While being on the vacation at Germany's North-Sea coast, I ate fish. Lots of fish. And it was good. So good that I forgot to take pictures of it.
 
@@ -22,7 +40,9 @@ I won't bore you with everything I ate during the past four weeks, but there is 
 Lastly, a more or less uncommented link-dump of the past 28 days.
 
  * [Woman steals own bike back](http://www.grindtv.com/outdoor/excursions/post/woman-steals-own-bike-back-from-thief/)
- * link
 
+Yep, not a lot of internet browsing. Heck, it's called vacation, after all. I yet
+have to catch up with my feedreader.
 
-> With that, have a great four weeks ahead. And remember, you can subscribe to this blog via Atom as well as Feedburner. 
+> With that, have a great four weeks ahead. And remember, you can subscribe to
+> this blog via Atom as well as Feedburner. 
