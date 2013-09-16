@@ -3,7 +3,7 @@ layout: post
 title: "Race report: Run 4 Trees"
 date: 2013-07-30 21:47
 comments: true
-categories: [Running]
+categories: [Running, Race]
 ---
 
 > A couple of months ago a mother at our Kindergarten{% fn_ref 1 %} mentioned that there would
