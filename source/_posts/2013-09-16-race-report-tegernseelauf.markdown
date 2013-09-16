@@ -6,12 +6,12 @@ comments: true
 categories: [ Running, Race ]
 ---
 
-> The race that wasn't meant to be: I head planned to make the [Tegernseelauf](http://www.tegernseelauf.de/) my 
+> The race that wasn't meant to be: I head planned to make the [Tegernseelauf](http://www.tegernseelauf.de/) my
 > second A-race for the year, capping off the year with one of the nicest (as
 > I'm told) half-marathons in my vicinity.
 
 I registered for this run on April 02, 2013, even before I completed my first
-half-marathon. Talk about being confident for this distance. I knew it would
+[half-marathon](/blog/2013/04/17/vienna-city-half-marathon/). Talk about being confident for this distance. I knew it would
 sell out eventually and didn't want to test my chances. Upon receiving the
 confirmation email I put the date into the calendar and didn't worry about it
 until much later. During summer, the weekends around the planned race date
@@ -58,12 +58,8 @@ rain as far as I can tell from the pictures.
 ## DNS ##
 So, that was my first did-not-start, and one with one of the stupidest reasons ever.
 Right now I'm looking at alternatives to race a half-marathon next weekend, luckily
-I have three options. I'll let you know what I decided for and hopefully write a 
+I have three options. I'll let you know what I decided for and hopefully write a
 real race report next week!
 
 > Question for you: Is it ethical as a runner to wear a finisher t-shirt of a race
 > you haven't completed, let alone started?
-
-
-
-
