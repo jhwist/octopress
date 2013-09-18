@@ -6,6 +6,12 @@ sharing: false
 footer: true
 ---
 
+### 2014 ###
+
+Planned:
+
+* April 13, 2014: Vienna City Marathon (Half Marathon)
+
 ### 2013 ###
 
 Done:
@@ -16,4 +22,5 @@ Done:
 
 Planned:
 
-* Tegernseelauf: Half Marathon
+* September 22, 2013: Hapfelmaier Laufcup (Half Marathon)
+* October 05, 2013: Ökumene läuft (local charity run, 5k or 10k)
