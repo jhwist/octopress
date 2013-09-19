@@ -50,7 +50,6 @@ Who's to blame them at 7.30am?
 {% img http://assets.runbikeco.de/borkum-sheep.png Sheep %}
   
 
-
 ## Gone with the wind ##
 
 Now, this long run wasn't merely planned as a steady state run but had two
@@ -59,6 +58,7 @@ the direction of the wind for this day (actually most of the days we spent there
 you'll see why I chose to do the first effort after turning south-west again.
 
 {% imgcap http://assets.runbikeco.de/borkum-map-wind.png Mind you, that wind was strong. %}
+{% img right http://assets.runbikeco.de/borkum-tp-effort.png %}
 
 You can see from the corresponding pace graph (exported from TrainingPeaks) that
 I did in fact start the first tempo segment right around kilometer 7.5, shortly
@@ -67,8 +67,8 @@ of the strong tail-wind), but the pavement on the dike was rather uneven and
 I certainly didn't want to trip and fall. No fun in doing that.
 
 As mentioned before, Borkum is part of a large nature reserve and the stretch
-east of the dike is even a part of the large [Wadden Sea](http://en.wikipedia.org/wiki/Lower_Saxony_Wadden_Sea_National_Park),
-which is placed on the world heritage list by UNESCO. At this time of the day there
+east of the dike belongs to the large [Wadden Sea](http://en.wikipedia.org/wiki/Lower_Saxony_Wadden_Sea_National_Park),
+which is listed on the world heritage list by UNESCO. At this time of the day there
 was a low tide, so I had a good view of the [salt marsh](http://en.wikipedia.org/wiki/Salt_marsh).
 
 {% img http://assets.runbikeco.de/borkum-salt-marsh.png Borkum Salt Marsh %}
@@ -76,8 +76,8 @@ was a low tide, so I had a good view of the [salt marsh](http://en.wikipedia.org
 After going all the way back south-west bound, I crossed the road and rail tracks
 that lead to the harbour. This is a boring 4km out and back which I skipped as I
 didn't want to end up with more than 20km for this run.
-
 {% imgcap right http://assets.runbikeco.de/borkum-deep-sand.png Deep Sand! %}
+
 Onwards, then, to the southernmost point of the run. After running about a mile
 on a beautiful trail through the woods I found myself confronted with this stuff
 pictured on the right.
@@ -93,31 +93,48 @@ bring me back to town.
 {% imgcap http://assets.runbikeco.de/borkum-from-south.png  The end is nigh... %}
 
 Finishing my second higher effort section right after(!) coming down from that
-dike I turned towards the town "Borkum" and meandered through small streets, passing
+dike I turned towards the town *Borkum* and meandered through small streets, passing
 the old lighthouse, a very old graveyard and this particularly interesting fence:
 
 {% imgcap http://assets.runbikeco.de/borkum-whale-fence.png %}
 
-It's not immediately obvious, but the house that belongs to this fence was inhabited
+It's not immediately obvious, but the house that this fence belongs to was inhabited
 by a whaler (way back when whaling was still allowed and pretty common in that area).
 Once you strip a whale of all the meat and edible stuff you are left with a bunch
-of bones. So that whaler used the jaw-bones of whales to build the fence.
+of bones. So the whaler used the jaw-bones of whales to build the fence. Pretty sturdy
+it seems.
+
+{% imgcap http://assets.runbikeco.de/borkum-train.png No, not an actual Café on board %}
 
 As mentioned, Borkum has exactly one rail track with a train that goes out and
 back between downtown and the harbour a couple of times a day. On this Sunday
 morning the train was waiting for the first passengers to board.
 
-{% imgcap http://assets.runbikeco.de/borkum-train.png No, not an actual Café on board %}
+{% img right http://assets.runbikeco.de/borkum-lighthouse.png Lighthouse %} Of 
+course I wanted to get a good look at the waterfront on the other side of the
+island, so I took a turn around the new lighthouse, which itself is quite
+impressive. We would actually climb all the way up there a couple of days later,
+enjoying(?) 391 stairs to the top. But the view, as you can imagine, was well
+worth it.
 
-{% img left http://assets.runbikeco.de/borkum-lighthouse.png Lighthouse %} Taking a turn
-around the new lighthouse I started my cool-down along the waterfront, where I
-finally got to see other people again, mostly other runners but also many locals
-walking their dogs. Still, the beach and the beach chairs were pretty empty at 8.30am.
-Believe me, though, it would get busy as the day went on.
+I started my cool-down along the waterfront, where I finally got to see other
+people again, mostly other runners but also many locals walking their dogs.
+Still, the beach and the beach chairs were pretty empty at 8.30am.  Believe me,
+though, it would get busy as the day went on.
 
 {% img http://assets.runbikeco.de/borkum-beach.png Borkum Beach %}
 
 
+Turning away from the waterfront again I had little over a kilometer to come
+back to the camp ground, finishing the run with 19.1km in 1h47m. My plan to be
+back in time for a family breakfast worked out pretty nicely, so no family vacation
+time was lost and we enjoyed a beautiful albeit windy day on the island.
+{% img right http://assets.runbikeco.de/borkum-map.png The Map %}
+{% imgcap http://assets.runbikeco.de/borkum-sun-progression.png Before and After %}
+
+
+> With that, thanks for reading. I'll keep an eye out for other possible
+> runarounds, ideally spotting sheep on the way.
 
 
 {% footnotes %}
