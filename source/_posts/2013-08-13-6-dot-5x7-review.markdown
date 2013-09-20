@@ -17,7 +17,7 @@ Can you tell that the weather was really, really nice for the most part of July
 and August? Yep, not much blogging happened, and I blame summer! But still, if
 you want to recap:
 
-  * My first post about coding (yep, the [co.de](/blog/categories/coding) part of this whole thing): [A Simple Data Logger](blog/2013/08/07/a-simple-data-logger/).
+  * My first post about coding (yep, the [co.de](/blog/categories/coding) part of this whole thing): [A Simple Data Logger](/blog/2013/08/07/a-simple-data-logger/).
   * Race Report [Run 4 Trees](/blog/2013/07/30/race-report-run-4-trees/).
 
 ## Notable past training
