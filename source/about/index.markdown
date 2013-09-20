@@ -17,7 +17,7 @@ product recommendation.
 
 My other passion is writing code. Even if I don't have nearly as much opportunity to write code every day
 due to my management-style position, I still need a place to write about my findings and code-adventures. That
-would be the [co.de](/blog/categories/code/) part of the blog.
+would be the [co.de](/blog/categories/coding/) part of the blog.
 
 For a somewhat longer story as to why I "started" running and riding again, I recommend to 
 read my [introduction](/blog/2013/04/09/running-on-my-old-stomping-ground/).
