@@ -25,7 +25,7 @@ Johann-Sebastian-Bach-Str. 42a<br />
 </tr>
 <tr>
 <td>E-Mail:&nbsp;</td>
-<td>henrik.wist@googlemail.com</td>
+<td>henrik@runbikeco.de</td>
 </tr></table>
 ## Privacy policy##
 <p>Privacy matters but it can be confusing. This page explains my approach to
@@ -99,7 +99,7 @@ Johann-Sebastian-Bach-Str. 42a<br />
 </tr>
 <tr>
 <td>E-Mail:&nbsp;</td>
-<td>henrik.wist@googlemail.com</td>
+<td>henrik@runbikeco.de</td>
 </tr></table>
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:##
 <p>Henrik Wist<br />
