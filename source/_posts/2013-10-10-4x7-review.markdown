@@ -3,9 +3,12 @@ layout: post
 title: "4x7 Review"
 date: 2013-10-10 22:43
 comments: true
-categories: 
+categories: [ Review ]
 ---
-> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+> I stumble over quite a lot of interesting articles and some are worth sharing
+> on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will
+> include my own posts, some training highlights and some of my nutrition.
+> Enjoy!
 
 ## As seen on runbikeco.de
  
@@ -13,19 +16,22 @@ It's been a busy four weeks blogging-wise:
 
  * The race that didn't happen: My [Tegernseelauf](/blog/2013/09/16/race-report-tegernseelauf/) race report.
  * Took a while to complete this one, but here is my [Borkum Runaround](/blog/2013/09/18/a-borkum-runaround/).
- * Race report: [Hapfelmeier Laufcup](/blog/2013/09/26/race-report-hapfelmeier-laufcup/)
- * One more race: [Baltimore Running Festival](/blog/2013/09/30/one-more-race-baltimore-running-festival/)
+ * Race report: [Hapfelmeier Laufcup](/blog/2013/09/26/race-report-hapfelmeier-laufcup/).
+ * One more race: [Baltimore Running Festival](/blog/2013/09/30/one-more-race-baltimore-running-festival/).
+ * Breakfast for champions: My [Fuel for a long run](/blog/2013/10/04/breakfast-for-champions-or-a-long-run/).
 
 ## Notable past training
 
-In between tapering for my fall [half-marathon](/blog/2013/09/26/race-report-hapfelmeier-laufcup/) and preparing for my unplanned end-of-season [half-marathon](!!) there wasn't much notable training to report on.
+In between tapering for my fall
+[half-marathon](/blog/2013/09/26/race-report-hapfelmeier-laufcup/) and
+preparing for my unplanned end-of-season [half-marathon](/blog/2013/09/30/one-more-race-baltimore-running-festival/)
+there wasn't much notable training to report on.
 
 ## Upcoming training
 
-I'll be taking two weeks off of running and will be focusing on strength and mobility. Beginning November I'll start to build the base for a successful next year.
-
-## Food consumed
-I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+I'll be taking two weeks off of running and will be focusing on strength and
+mobility. Beginning November I'll start to build the base for a successful next
+year.
 
 ## Found elsewhere
 Lastly, a more or less uncommented link-dump of the past 28 days.
