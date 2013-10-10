@@ -1,0 +1,42 @@
+---
+layout: post
+title: "4x7 Review"
+date: 2013-10-10 22:43
+comments: true
+categories: 
+---
+> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+
+## As seen on runbikeco.de
+ 
+It's been a busy four weeks blogging-wise:
+
+ * The race that didn't happen: My [Tegernseelauf](/blog/2013/09/16/race-report-tegernseelauf/) race report.
+ * Took a while to complete this one, but here is my [Borkum Runaround](/blog/2013/09/18/a-borkum-runaround/).
+ * Race report: [Hapfelmeier Laufcup](/blog/2013/09/26/race-report-hapfelmeier-laufcup/)
+ * One more race: [Baltimore Running Festival](/blog/2013/09/30/one-more-race-baltimore-running-festival/)
+
+## Notable past training
+
+In between tapering for my fall [half-marathon](/blog/2013/09/26/race-report-hapfelmeier-laufcup/) and preparing for my unplanned end-of-season [half-marathon](!!) there wasn't much notable training to report on.
+
+## Upcoming training
+
+I'll be taking two weeks off of running and will be focusing on strength and mobility. Beginning November I'll start to build the base for a successful next year.
+
+## Food consumed
+I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+
+## Found elsewhere
+Lastly, a more or less uncommented link-dump of the past 28 days.
+
+ * This should have been in the last review already, but somehow I failed to mention it: Strava recently added [personal heat maps](http://blog.strava.com/new-premium-feature-personal-heatmaps-6719/) as a premium feature. Cool stuff!
+ * Garmin recently announced their new [620/220 running watches](http://sites.garmin.com/forerunnerCoach/). Pretty cool stuff (USB + WiFi, finally!). Head over to Ray's blog for a quick [first look](http://www.dcrainmaker.com/2013/09/garmins-running-watches.html)
+ * Want to get around in Moscow? Get your [running shoes out](http://www.runnersworld.com/general-interest/moscow-marathon-winner-could-have-outrun-traffic), leave the car in the garage!
+ * New Marathon world record in Berlin! [Wilson Kipsang](http://www.iaaf.org/news/report/wilson-kipsang-sets-world-record-of-20323-in) runs 2:03:23.
+ * And speaking of marathon times, here are the [Boston Marathon Acceptances](http://www.baa.org/news-and-press/news-listing/2013/september/2014-boston-marathon-qualifier-acceptances.aspx) complete with the respective qualifying times. 
+ * TrainingPeaks, the main training log software I use, get's a new look with [lots of new technology under the hood](http://blog.trainingpeaks.com/posts/2013/10/1/gears-thoughts-we-have-ignition.html). Currently in beta, can't wait for the final release!
+
+
+> With that, have a great four weeks ahead. And remember, you can subscribe to this blog via Atom as well as Feedburner.
+> And if you prefer email over RSS, subscribe to my newsletter (on the right, in the sidebar) 
