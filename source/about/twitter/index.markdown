@@ -28,7 +28,7 @@ read my [introduction](/blog/2013/04/09/running-on-my-old-stomping-ground/).
 If you want to stay in touch with me, I recommend to
 [follow me](https://twitter.com/intent/follow?original_referer=http%3A%2F%2Flocalhost%3A4000%2Fabout%2Ftwitter%2F&region=follow_link&screen_name=runbikecode&tw_p=followbutton&variant=2.0)
 on Twitter, add my blog to your [RSS Feed reader](http://feeds.feedburner.com/RunBikeCode)
-or subscribe to my Newsletter.
+or [subscribe](/news/signup) to my Newsletter.
 
 Again, thanks for checking this site out; for the latest post, you might
 want to head over to the [home page](/).
