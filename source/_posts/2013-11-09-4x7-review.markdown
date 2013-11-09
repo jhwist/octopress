@@ -1,0 +1,35 @@
+---
+layout: post
+title: "4x7 Review"
+date: 2013-11-09 01:38
+comments: true
+categories: 
+---
+> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+
+## As seen on runbikeco.de
+ * A trip to the U.S. - as seen by my [Withings Pulse](/blog/2013/10/18/a-trip-to-the-us-as-seen-by-my-withings-pulse/).
+ * My race report of the [Baltimore Running Festival half-marathon](http://blog.runbikeco.de/blog/2013/10/21/race-report-baltimore-running-festival-half-marathon/).
+
+
+## Notable past training
+
+## Upcoming training
+
+## Food consumed
+I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+
+ * Having spent a weekend in Baltimore I had to try some crab cake. It was delicious.
+ * Also, as we don't have a [Five Guys](http://www.fiveguys.com/) place in Germany, I took advantage of that as well while staying in Baltimore.
+
+## Found elsewhere
+Lastly, a more or less uncommented link-dump of the past 28 days.
+
+ * TrainingPeaks looks a the [Power Data from Kona](http://blog.trainingpeaks.com/posts/2013/10/15/power-data-from-kona-2013.html)
+ * Chris Horner (winner of the '13 Vuelta) publishes his [biological UCI passport](http://www.chrishornerracing.com/13-uci-passport/). Just to have it backfire, when an [M.D. looks at it](http://www.outsideonline.com/outdoor-adventure/biking/road-biking/Chris-Horner-Bio-Passport-Raises-Doubts.html).
+ * Something coding related: J.B. Rainsberger writes about [The Pain of Implicit Dependencies](http://blog.thecodewhisperer.com/2013/10/14/the-pain-of-implicit-dependencies/). Well worth the read, especially since it deals with [Octopress](http://octopress.org/), the blogging platform I use myself.
+ 
+
+
+> With that, have a great four weeks ahead. And remember, you can subscribe to this blog via Atom as well as Feedburner.
+> And if you prefer email over RSS, subscribe to my newsletter (on the right, in the sidebar) 
