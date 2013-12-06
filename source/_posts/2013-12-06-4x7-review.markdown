@@ -1,0 +1,29 @@
+---
+layout: post
+title: "4x7 Review"
+date: 2013-12-06 09:08
+comments: true
+categories: 
+---
+> I stumble over quite a lot of interesting articles and some are worth sharing on this site. I plan to do this every 4 weeks (thus "4x7 Review") and I will include my own posts, some training highlights and some of my nutrition. Enjoy!
+
+## As seen on runbikeco.de
+
+## Notable past training
+
+## Upcoming training
+
+## Food consumed
+I won't bore you with everything I ate during the past four weeks, but there is always a meal or two that was special.
+
+## Found elsewhere
+Lastly, a more or less uncommented link-dump of the past 28 days.
+
+ * Chad Stafko writes an opinionated peace in the [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304448204579186401818882202) about runners. Mario Fraioli writes a great [response](http://running.competitor.com/2013/11/staff-blog/fraioli-were-runners-and-proud-of-it_89319)
+ * Under Armour to [acquire MapMyFitness](http://online.wsj.com/article/PR-CO-20131114-909210.html?dsk=y). So it seems UA is not only interested in football, after all.
+ * A great series of blog posts by David Brady about [Loyalty and Layoffs](http://heartmindcode.com/2013/08/16/loyalty-and-layoffs/). It continues [here](http://heartmindcode.com/2013/09/02/loyalty-and-your-professional-network/), [here](http://heartmindcode.com/2013/09/04/loyalty-and-trust/), and [here](http://heartmindcode.com/2013/11/07/loyalty-and-daring/). Found via episode 125 of the [RubyRogues podcast](http://rubyrogues.com)
+
+
+> With that, have a great four weeks ahead. And remember, you can subscribe to this blog via [Atom](/atom.xml) as well as Feedburner.
+> And if you prefer email instead of RSS, subscribe to my [newsletter](/news/signup). 
+> Thanks for reading!
