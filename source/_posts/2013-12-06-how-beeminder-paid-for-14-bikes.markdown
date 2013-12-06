@@ -43,6 +43,8 @@ one had claimed it by commenting on the blog post. Which I did, immediately.
 And Daniel responded some minutes later, saying that it seemed to be legit,
 even though they actually had a UVI rolled out, just not tweeted about in time.
 
+<!-- More -->
+
 ## Holy Moly, they just paid me $1k ##
 
 To be honest, after reading Daniel's
@@ -70,6 +72,7 @@ I knew what I'd do with the money even before I posted my comment on the Beemind
 
 ## World Bicycle Relief ##
 
+{%img right http://assets.runbikeco.de/bmndr-wbr.png %}
 The thing is, it's Holiday Season, and that is the time to give.
 Probably not very coincidentally, the well known [Fat Cyclist](http://www.fatcyclist.com/ ) has a fund-raiser for the World Bicycle Relief going.
 This is one of the charities that I give money to on a regular basis (and have already done this year for
