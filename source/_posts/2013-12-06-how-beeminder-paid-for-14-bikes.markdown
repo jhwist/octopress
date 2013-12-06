@@ -6,11 +6,14 @@ comments: true
 categories: [General]
 ---
 
+
 > For almost a year now I've been a happy Beeminder user.
 > It helps me accomplish goals that I otherwise probably would not achieve, like doing a short daily workout, practicing some Spanish, or even keeping my blog alive with content.
 > I had planned for today's post to be about my blogging workflow, which heavily depends on Beeminder.
 >
 > Alas, today's post is a different story.
+>
+> (*This post appeared also as a guest-post on the [Beeminder blog](http://blog.beeminder.com/bikes).*)
 
 
 ## About Dog Food ##
@@ -105,8 +108,6 @@ incentive for his fund-raiser, I'm totally going to keep it.
 I would like to thank the Beeminder team for an awesome product and the courage
 to live up to their slip-ups each and every time.
 
-> This post will also appear as a guest-post on the [Beeminder blog](http://blog.beeminder.com).
-> Feel free to leave a comment here or there.
 
 {% footnotes %}
  {% fn %} I later learned that when they created this Beeminder contract for User-Visible Improvements,
