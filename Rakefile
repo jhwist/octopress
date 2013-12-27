@@ -3,6 +3,7 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 require "trello"
+require 'zlib'
 require "aws/s3"
 require "cloudfront-invalidator"
 
@@ -42,7 +43,7 @@ desc "Pull card from Trello and generate post from it"
 task :new_trello_post do
   b = Trello::Board.find(ENV["TRELLO_BOARD"])
   content_cards = []
-  b.cards.select {|c| c.list_id == "510a487bdf52f3cd0c001075" }.each do |card|
+  b.cards.select {|c| c.list_id == ENV["TRELLO_CARD"] }.each do |card|
     card.labels.each do |label|
       if label.name == "CONTENT"
         content_cards << card
@@ -56,11 +57,12 @@ task :new_trello_post do
   card = Trello::Card.find(c_id)
   if not card.nil?
     Rake::Task["new_post"].invoke(card.name)
-    open(ENV['NEW_POST'], 'a') do |post|
+    new_post_file = ENV['NEW_POST']
+    open(new_post_file, 'a') do |post|
       post.puts card.description
     end
   end
-  `git commit -m 'Adds draft for #{card.name}. Start #{card.short_id}' #{ENV['NEW_POST']}`
+  `git commit -m 'Adds draft for #{card.name}. Start #{card.short_id}' #{new_post_file}`
 end
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
@@ -272,8 +274,21 @@ task :copydot, :source, :dest do |t, args|
   end
 end
 
+desc "Zip generated html files"
+task :gzip  => [:generate] do
+  puts "== Gzip generated html"
+  Dir.glob("public/**/*.html").each do |html|
+    Zlib::GzipWriter.open(html + ".gz") do |gz|
+      gz.mtime = File.mtime(html)
+      gz.orig_name = html
+      gz.write IO.binread(html)
+    end
+    FileUtils.move(html + ".gz", html)
+  end
+end
+
 desc "Deploy website to AWS/S3"
-task :deploys3 do
+task :deploys3 => [:generate, :gzip] do
   puts "== Uploading assets to S3/Cloudfront"
 
   AWS::S3::Base.establish_connection!(
@@ -309,7 +324,8 @@ task :deploys3 do
         obj = bucket.new_object
         obj.value = open(file)
         obj.key = remote
-        obj.store
+        options = {:content_encoding => "gzip", :content_type => "text/html"}
+        obj.store(options)
         invalidations << remote
       else
         print "."
@@ -340,7 +356,7 @@ desc "deploy public directory to github pages"
 multitask :push do
   puts "## Deploying branch to Github Pages "
   puts "## Pulling any updates from Github Pages "
-  cd "#{deploy_dir}" do 
+  cd "#{deploy_dir}" do
     system "git pull"
   end
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
@@ -505,12 +521,12 @@ end
 
 def aws_access_key_id()
   key = key_from_s3cfg("access_key")
-  return key unless key.nil? 
+  return key unless key.nil?
   return ENV["AWS_ACCESS_KEY_ID"]
 end
 
 def aws_secret_key()
   key = key_from_s3cfg("secret_key")
-  return key unless key.nil? 
+  return key unless key.nil?
   return ENV["AWS_SECRET_ACCESS_KEY"]
 end
