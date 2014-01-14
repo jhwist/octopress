@@ -58,6 +58,7 @@ task :new_trello_post do
   if not card.nil?
     Rake::Task["new_post"].invoke(card.name)
     new_post_file = ENV['NEW_POST']
+    add_card_id_to_post(new_post_file, c_id)
     open(new_post_file, 'a') do |post|
       post.puts card.description
     end
@@ -153,6 +154,7 @@ task :new_post, :title do |t, args|
   puts "Adding to git: "
   `git add #{filename}`
   ENV['NEW_POST'] = filename
+  puts "Post successfully created: #{filename}"
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
@@ -529,4 +531,20 @@ def aws_secret_key()
   key = key_from_s3cfg("secret_key")
   return key unless key.nil?
   return ENV["AWS_SECRET_ACCESS_KEY"]
+end
+
+def add_card_id_to_post(f, c_id)
+  orig = f
+  with_id = orig + ".new"
+  done = false
+  File.open(with_id, 'w') do |fo|
+    File.foreach(orig) do |li|
+      fo.puts li
+      if li =~ /---/ and not done
+        fo.puts "card: #{c_id}"
+        done = true
+      end
+    end
+    File.rename(with_id, orig)
+  end
 end
