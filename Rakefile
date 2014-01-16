@@ -326,7 +326,8 @@ task :deploys3 => [:generate, :gzip] do
         obj = bucket.new_object
         obj.value = open(file)
         obj.key = remote
-        options = {:content_encoding => "gzip", :content_type => "text/html"}
+        options = {}
+        options = {:content_encoding => "gzip", :content_type => "text/html"} if file.end_with?(".html")
         obj.store(options)
         invalidations << remote
       else
